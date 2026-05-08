@@ -14,6 +14,7 @@ The project explores:
 - Forecasting reliability
 
 ---
+Live Demo: https://football-market-efficiency-dashboard-3zxpzaijnaefq6qqqfnohd.streamlit.app/
 
 # 📊 Project Objective
 
