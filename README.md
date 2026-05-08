@@ -109,12 +109,30 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 streamlit run app.py
-# Requirements
+
+# requirements.txt
 streamlit
 pandas
 numpy
 plotly
 openpyxl
+
+---
+
+# 📁 Project Structure
+
+```text
+Football-Market-Efficiency-Dashboard/
+│
+├── app.py                  # Main Streamlit dashboard
+├── E0.xlsx                 # Premier League dataset
+├── D1.xlsx                 # Bundesliga dataset
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+│
+└── assets/                 # Optional images/logos
+    ├── dashboard.png
+    └── calibration_curve.png
 
 # Example Analyses
 Market Efficiency
