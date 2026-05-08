@@ -1,0 +1,11 @@
+Football-Market-Efficiency-Dashboard/
+│
+├── app16.py                  # Main Streamlit dashboard
+├── E0.xlsx                 # Premier League dataset
+├── D1.xlsx                 # Bundesliga dataset
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+│
+└── assets/                 # Optional images/logos
+    ├── dashboard.png
+    └── calibration_curve.png
