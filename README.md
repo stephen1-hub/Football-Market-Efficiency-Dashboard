@@ -102,6 +102,74 @@ Leagues analyzed:
 
 # 🚀 Installation
 
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Streamlit app:
+
+streamlit run app.py
+# Requirements
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+
+# Example Analyses
+Market Efficiency
+
+Compares bookmaker prediction accuracy across leagues using Mean Absolute Error (MAE).
+
+Probability Calibration
+
+Evaluates whether bookmaker implied probabilities match actual outcomes.
+
+Team Overperformance
+
+Identifies teams that consistently outperform bookmaker expectations.
+
+Favorite Analysis
+
+Tests whether strong favorites are accurately priced.
+
+# Analytical Concepts Used
+Implied Probability
+Probability Calibration
+Forecast Evaluation
+Mean Absolute Error (MAE)
+Market Segmentation
+Betting Market Efficiency
+# Future Improvements
+Home advantage analysis
+Goal market efficiency
+Referee impact analysis
+Machine learning prediction models
+Expected goals (xG) integration
+Betting value detection
+# Author
+
+Stephen Yaw Ayamah
+
+Aspiring Sports & Data Analyst passionate about:
+
+Sports analytics
+Forecasting
+Betting market intelligence
+Data storytelling
+Predictive modeling
+
+# Project Vision
+
+This project aims to bridge:
+
+football analytics
+predictive modeling
+betting market research
+business intelligence
+
+by transforming bookmaker odds into actionable analytical insights.
+
 Clone the repository:
 
 ```bash
