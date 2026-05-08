@@ -158,6 +158,7 @@ Forecast Evaluation
 Mean Absolute Error (MAE)
 Market Segmentation
 Betting Market Efficiency
+
 # Future Improvements
 Home advantage analysis
 Goal market efficiency
@@ -165,6 +166,7 @@ Referee impact analysis
 Machine learning prediction models
 Expected goals (xG) integration
 Betting value detection
+
 # Author
 
 Stephen Yaw Ayamah
